@@ -1,0 +1,22 @@
+body {background-color: lightyellow; 
+}
+h1 { color: grey;
+  font-size: 24px;
+  font-family: Arial, helvetica, sans-serif; 
+}
+
+img {width: 30%px}
+
+.header {background-color: black;
+  padding-left: 10px;
+    border: 2px solid grey;
+}
+
+p, li, h4 {color: green; font-family: Arial, helvetica, sans-serif;
+}
+.footer { 
+  background-color: grey;
+  border: 1px solid black;
+  font-family: Arial, helvetica, sans-serif;
+  padding-left: 10px;
+}
